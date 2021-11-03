@@ -9,7 +9,7 @@ There are eight weeks of lectures for this class, and each class folder is provi
 Python program is the programming language used for this class. All code is built using jupyter notebook.
 
 ##Installation
-Python download: https://www.python.org/downloads/
+Python download: https://www.python.org/downloads/                                                                                                                             
 Anaconda download: https://www.anaconda.com/products/individual
 
 ## Folders
