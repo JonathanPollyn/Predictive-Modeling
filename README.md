@@ -12,14 +12,14 @@ Python program is the programming language used for this class. All code is buil
 Python download: https://www.python.org/downloads/                                                                                                                             
 Anaconda download: https://www.anaconda.com/products/individual
 
-## Folders
-Topic 1 - The Predictive Modeling Process 
-Topic 2 - Data Preparation and Exploratory Data Analysis 
-Topic 3 - Predictive Modeling Using Decision Trees 
-Topic 4 - Predictive Modeling Using Naïve Bayes Classifcation 
-Topic 5 - Predictive Modeling Using Clustering 
-Topic 6 - Predictive Modeling Using Generalized Linear Models 
-Topic 7 - Presenting and Interpreting Results of Predictive Models 
+## Folders                                                                                                                                                                   
+Topic 1 - The Predictive Modeling Process                                                                                                                                     
+Topic 2 - Data Preparation and Exploratory Data Analysis                                                                                                                         
+Topic 3 - Predictive Modeling Using Decision Trees                                                                                                                              
+Topic 4 - Predictive Modeling Using Naïve Bayes Classifcation                                                                                                                    
+Topic 5 - Predictive Modeling Using Clustering                                                                                                                                 
+Topic 6 - Predictive Modeling Using Generalized Linear Models                                                                                                                   
+Topic 7 - Presenting and Interpreting Results of Predictive Models                                                                                                                
 Topic 8 - Applications of Predictive Models in Science, Engineering, and Business
 
 ## Usage
