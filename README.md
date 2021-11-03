@@ -1,5 +1,5 @@
 # Predictive-Modeling
-This repository is based on the on my masters degree program with Grand Canyon University. The Masters degree program in GCU have been a jorney that I can say so far I am proud of. There are eight weeks to the course and all the topics that are associated to the course in placed on a folder. 
+This repository is based on my master's degree program with Grand Canyon University. The Masters's degree program at GCU has been a journey that I can say so far I am proud of. We have eight weeks in this class, and I have created folders for each week that includes the codes and written technical reports.
 
 ## Program used 
 As part of the course, I used jupyter notebook 
